@@ -22,7 +22,7 @@
 **Older Versions**
  Version | Operating System | Download Link (Official) | Download Link (Alternative) |
 |---|---|---|---|
-| 17.5.1 | Linux x86_64 | [VMware Workstation Pro Download](https://www.mediafire.com/file/w1kzgwejx254c22/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle/file) | - |
+| 17.5.1 | Linux x86_64 | - | [.bundle](https://www.mediafire.com/file/w1kzgwejx254c22/VMware-Workstation-Full-17.5.1-23298084.x86_64.bundle/file) |
 
 ## Disclaimer
 
